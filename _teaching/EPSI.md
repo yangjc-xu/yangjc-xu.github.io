@@ -6,7 +6,7 @@ permalink: /teaching/EPSI
 ---
 
 1. [Glivenko-Cantelli and Donsker Results](/files/EPSI-slides/EPSI0721_GC_and_Donsker_Results.pdf)<br>
-2. [Bootstrapping Empirical Processes (Cont.)](/files/EPSI-slides/EPSI0826_Bootstrapping_Cont.pdf)<br>
+2. [Bootstrapping Empirical Processes](/files/EPSI-slides/EPSI0826_Bootstrapping_Cont.pdf)<br>
 
 Semiparametric Inference
 ======
