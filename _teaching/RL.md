@@ -1,14 +1,9 @@
 ---
 layout: archive
-title: "Empirical Processes"
+title: "Reinforcement Learning"
 collection: teaching
-permalink: /teaching/EPSI
+permalink: /teaching/RL
 ---
 
-1. [Glivenko-Cantelli and Donsker Results](/files/EPSI-slides/EPSI0721_GC_and_Donsker_Results.pdf)<br>
-2. [Bootstrapping Empirical Processes](/files/EPSI-slides/EPSI0826_Bootstrapping_Cont.pdf)<br>
-
-Semiparametric Inference
-======
-1. [Efficient Inference for Finite-Dimensional Parameters](/files/EPSI-slides/EPSI1104_Efficient_Inference.pdf)<br>
-2. [Case Studies](/files/EPSI-slides/EPSI220212_Case_Studies.pdf)
+1. [Dimensionality Reduction for Transition Model Estimation](/files/RL-slides/SRL11.pdf)<br>
+2. [Statistical Limits of Generalization](/files/RL-slides/AJKS05 - Statistical Limits of Generalization.pdf)<br>
