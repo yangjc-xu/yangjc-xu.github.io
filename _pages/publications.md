@@ -19,7 +19,7 @@ author_profile: true
   indicates equal contribution; † indicates corresponding author.
 
 ## Refereed Journal Publications
-1. Paper 1
+1. Lin DY<sup>*</sup>, **Xu Y**<sup>*</sup>, Gu Y<sup>*</sup>, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z. (2023). [Effects of COVID-19 vaccination and previous SARS-CoV-2 infection on Omicron infection and severe outcomes in children under 12 years of age: an observational cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00272-4/fulltext). \textbf{The Lancet Infectious Diseases}, in press.
 2. Paper 2
 
 ## Under Review
