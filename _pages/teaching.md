@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Guest Lecturer, University of North Carolina at Chapel Hill
+## Guest Lecturer
 
   • Study Group: Reinforcement Learning
 
