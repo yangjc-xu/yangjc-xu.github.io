@@ -7,11 +7,11 @@ author_profile: true
 
 ## Guest Lecturer
 
-  - Study Group: Reinforcement Learning [ [Website](https://tarheels.live/bios2021/); [Slides](/teaching/EPSI) ]
+  - Study Group: Reinforcement Learning [ [Slides](/teaching/RL) ]
 
-  - Study Group: Empirical Processes and Semiparametric Inference
+  - Study Group: Empirical Processes and Semiparametric Inference [ [Website](https://tarheels.live/bios2021/); [Slides](/teaching/EPSI) ]
 
-  - Study Group: High-Dimensional Statistics
+  - Study Group: High-Dimensional Statistics [ [Slides](/teaching/HDS) ]
 
 ## Teaching Assistant
 
