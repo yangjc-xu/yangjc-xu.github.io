@@ -15,14 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-
-# Publication
 ∗
   indicates equal contribution; † indicates corresponding author.
-1. Paper 1
-2. Paper 2
-3. Paper 3
-
 
 ## Refereed Journal Publications
 1. Paper 1
