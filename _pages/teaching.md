@@ -17,7 +17,7 @@ author_profile: true
 
   - BIOS 780: Theory and Methods for Survival Analysis (PhD core course), Fall 2023
 
-  - BIOS 680: Introductory Survivorship Analysis (Master core course), Spring 2022
+  - BIOS 680: Introductory Survivorship Analysis (MS core course), Spring 2022
 
   - BIOS 760: Advanced Probability and Statistical Inference (I) (PhD core course), Fall 2021
 
