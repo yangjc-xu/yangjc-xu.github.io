@@ -8,7 +8,7 @@ author_profile: true
 <sup>*</sup> indicates equal contributions.
 
 ## Refereed Journal Publications
-1. **Xu Y**, Zeng D, Lin DY. (2023). Proportional rates models for multivariate panel count data. Accepted to **Biometrics**. [An earlier version of this manuscript won the **2023 ASA Lifetime Data Science (LiDS) Section Student Paper Award**]
+1. **Xu Y**, Zeng D, Lin DY. (2023). Proportional rates models for multivariate panel count data. **Biometrics**, accepted. [An earlier version of this manuscript won the **2023 ASA Lifetime Data Science (LiDS) Section Student Paper Award**]
 2. Lin DY<sup>*</sup>, **Xu Y**<sup>*</sup>, Gu Y<sup>*</sup>, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z. (2023). [Effects of COVID-19 vaccination and previous SARS-CoV-2 infection on Omicron infection and severe outcomes in children under 12 years of age: an observational cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00272-4/fulltext). **The Lancet Infectious Diseases**, in press. \[[News](https://www.altmetric.com/details/150195124/news?src=bookmarklet)\]
 3. Lin DY, **Xu Y**, Gu Y, Zeng D, Sunny SK, Moore Z. (2023). [Durability of bivalent boosters against Omicron subvariants](https://www.nejm.org/doi/full/10.1056/NEJMc2302462). **New England Journal of Medicine** 388(19), 1818–1820. \[[News](https://www.altmetric.com/details/145643558/news?src=bookmarklet)\]
 4. Lin DY, **Xu Y**, Gu Y, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z. (2023). [Effectiveness of bivalent boosters against severe Omicron infection](https://www.nejm.org/doi/full/10.1056/NEJMc2215471). **New England Journal of Medicine** 388(8), 764–766. \[[News](https://www.altmetric.com/details/141787740/news?src=bookmarklet)\]
