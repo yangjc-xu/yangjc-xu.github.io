@@ -18,7 +18,8 @@ author_profile: true
 8. Lin DY, Gu Y, **Xu Y**, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z. (2022). [Effects of vaccination and previous infection on Omicron infections in children](https://www.nejm.org/doi/full/10.1056/NEJMc2209371). **New England Journal of Medicine** 387(12), 1141–1143. \[[News](https://www.altmetric.com/details/135646402/news?src=bookmarklet)\]
 
 ## Under Review
-1. Lin DY<sup>*</sup>, **Xu Y**<sup>*</sup>, Gu Y, Sunny SK, Moore Z, Zeng D. (2023+). Impact of booster vaccination interval on SARS-CoV-2 infection, hospitalization, and death. Under review at **JAMA Health Forum**.
+1. Lin DY<sup>*</sup>, **Xu Y**<sup>*</sup>, Gu Y, Sunny SK, Moore Z, Zeng D. (2023+). Impact of booster vaccination interval on SARS-CoV-2 infection, hospitalization, and death.
+1. Paritala S, **Xu Y**, Du Y, Donahue M, Maloney P, Lin DY. (2023+). [Effectiveness of Bivalent Boosters Over Nine and Half Months in Nebraska](https://www.medrxiv.org/content/10.1101/2023.12.03.23299338v1).
 
 ## In Preparation
 1. **Xu Y**, Zeng D, Lin DY. (2023+). Model checking techniques for the Cox proportional hazards models under interval censoring.
