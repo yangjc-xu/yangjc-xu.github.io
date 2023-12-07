@@ -19,7 +19,7 @@ author_profile: true
 
 ## Under Review
 1. Lin DY<sup>*</sup>, **Xu Y**<sup>*</sup>, Gu Y, Sunny SK, Moore Z, Zeng D. (2023+). Impact of booster vaccination interval on SARS-CoV-2 infection, hospitalization, and death.
-1. Paritala S, **Xu Y**, Du Y, Donahue M, Maloney P, Lin DY. (2023+). [Effectiveness of Bivalent Boosters Over Nine and Half Months in Nebraska](https://www.medrxiv.org/content/10.1101/2023.12.03.23299338v1).
+2. Paritala S, **Xu Y**, Du Y, Donahue M, Maloney P, Lin DY. (2023+). [Effectiveness of Bivalent Boosters Over Nine and Half Months in Nebraska](https://www.medrxiv.org/content/10.1101/2023.12.03.23299338v1).
 
 ## In Preparation
 1. **Xu Y**, Zeng D, Lin DY. (2023+). Model checking techniques for the Cox proportional hazards models under interval censoring.
