@@ -8,7 +8,7 @@ author_profile: true
 <sup>*</sup> indicates equal contributions.
 
 ## Refereed Journal Publications
-1. **Xu Y**, Zeng D, Lin DY. (2024). Proportional rates models for multivariate panel count data. **Biometrics**, in press. [An earlier version of this manuscript won the **2023 ASA Lifetime Data Science (LiDS) Section Student Paper Award** and the **2024 ENAR Distinguished Student Paper Award**]
+1. **Xu Y**, Zeng D, Lin DY. (2024). [Proportional rates models for multivariate panel count data](https://academic.oup.com/biometrics/article/80/1/ujad011/7595108). **Biometrics**, in press. [An earlier version of this manuscript won the **2023 ASA Lifetime Data Science (LiDS) Section Student Paper Award** and the **2024 ENAR Distinguished Student Paper Award**]
 2. **Xu Y**, Zeng D, Lin DY. (2023). [Marginal proportional hazards models for multivariate interval-censored data](https://academic.oup.com/biomet/article-abstract/110/3/815/6794202). **Biometrika** 110, 815–830.
 3. Lin DY<sup>*</sup>, **Xu Y**<sup>*</sup>, Gu Y<sup>*</sup>, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z. (2023). [Effects of COVID-19 vaccination and previous SARS-CoV-2 infection on Omicron infection and severe outcomes in children under 12 years of age: an observational cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00272-4/fulltext). **The Lancet Infectious Diseases** 23(11), 1257–1265. \[[News](https://www.altmetric.com/details/150195124/news?src=bookmarklet)\]
 4. Lin DY, **Xu Y**, Gu Y, Zeng D, Sunny SK, Moore Z. (2023). [Durability of bivalent boosters against Omicron subvariants](https://www.nejm.org/doi/full/10.1056/NEJMc2302462). **New England Journal of Medicine** 388(19), 1818–1820. \[[News](https://www.altmetric.com/details/145643558/news?src=bookmarklet)\]
@@ -23,4 +23,4 @@ author_profile: true
 2. Lin DY, Du Y, **Xu Y**, Paritala S, Donahue M, Maloney P. (2024+). Effectiveness of XBB.1.5 Vaccines Against Omicron Subvariants.
 
 ## In Preparation
-1. **Xu Y**, Zeng D, Lin DY. (2024+). Checking the Cox regression model with interval-censored data.
+1. **Xu Y**, Zeng D, Lin DY. (2024+). 
