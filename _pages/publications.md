@@ -23,4 +23,4 @@ author_profile: true
 2. Lin DY, Du Y, **Xu Y**, Paritala S, Donahue M, Maloney P. (2024+). Effectiveness of XBB.1.5 Vaccines Against Omicron Subvariants.
 
 ## In Preparation
-1. **Xu Y**, Zeng D, Lin DY. (2024+). 
+1. **Xu Y**, Zeng D, Lin DY. (2024+). Checking the Cox regression model with interval-censored data.
