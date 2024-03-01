@@ -20,7 +20,7 @@ author_profile: true
 
 ## Under Review
 1. Lin DY<sup>*</sup>, **Xu Y**<sup>*</sup>, Gu Y, Sunny SK, Moore Z, Zeng D. (2024+). Impact of booster vaccination interval on SARS-CoV-2 infection, hospitalization, and death.
-2. Lin DY, Du Y, **Xu Y**, Paritala S, Donahue M, Maloney P. (2024+). Effectiveness of XBB.1.5 Vaccines Against Omicron Subvariants.
+2. Lin DY, Du Y, **Xu Y**, Paritala S, Donahue M, Maloney P. (2024+). Durability of XBB.1.5 Vaccines against Omicron Subvariants.
 
 ## In Preparation
 1. **Xu Y**, Zeng D, Lin DY. (2024+). Checking the Cox proportional hazards model with interval-censored data.
