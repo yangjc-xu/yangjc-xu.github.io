@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
+- [03/2024] “Proportional Rates Models for Multivariate Panel Count Data”, ENAR 2024 Spring Meeting, Baltimore, USA.
 - [02/2024] “Checking the Cox Regression Model with Interval-Censored Data”, Department of Biostatistics and Data Science, UTHealth School of Public Health, Houston, USA.
 - [02/2024] “Checking the Cox Regression Model with Interval-Censored Data”, Department of Statistics and Actuarial Science, University of Waterloo, Waterloo, Canada.
 - [01/2024] “Checking the Cox Regression Model with Interval-Censored Data”, Department of Statistics, University of California, Riverside, USA.
