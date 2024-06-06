@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fifth-year Ph.D. student in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the [University of North Carolina at Chapel Hill](https://www.unc.edu), co-advised by Drs. [Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) and [Donglin Zeng](https://sph.umich.edu/faculty-profiles/zeng-donglin.html). Prior to that, I received my Bachelor’s degree in Statistics from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn) in 2019.
 
-I will join the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca) as an Assistant Professor in Fall 2024.
+I will join the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca) as an Assistant Professor in Summer 2024.
 
 Research Interests
 ======
