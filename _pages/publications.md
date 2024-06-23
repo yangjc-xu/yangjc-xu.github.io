@@ -21,7 +21,6 @@ author_profile: true
 11. Lin DY, Gu Y, **Xu Y**, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z. [Effects of vaccination and previous infection on Omicron infections in children](https://www.nejm.org/doi/full/10.1056/NEJMc2209371). **New England Journal of Medicine**, 2022. \[[News](https://www.altmetric.com/details/135646402/news?src=bookmarklet)\]
 
 ## Under Review
-1. Lin DY, Huang S, **Xu Y**, Milinovich A, Duggal A, Wang X. Waning effects of XBB.1.5 vaccines and antiviral drugs on severe outcomes of omicron infection in the USA, 2024+.
-
-## In Preparation
 1. **Xu Y**, Zeng D, Lin DY. Checking the Cox proportional hazards model with interval-censored data, 2024+.
+2. Lin DY, Huang S, **Xu Y**, Milinovich A, Duggal A, Wang X. Waning effects of XBB.1.5 vaccines and antiviral drugs on severe outcomes of omicron infection in the USA, 2024+.
+
