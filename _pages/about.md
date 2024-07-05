@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca).
-
-I received my Ph.D. in Biostatistics from the [University of North Carolina at Chapel Hill](https://www.unc.edu) in 2024, co-advised by Drs. [Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) and [Donglin Zeng](https://sph.umich.edu/faculty-profiles/zeng-donglin.html). Before that, I received my B.S. in Statistics from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn) in 2019.
+I am an Assistant Professor in the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca). I received my Ph.D. in Biostatistics from the [University of North Carolina at Chapel Hill](https://www.unc.edu) in 2024, co-advised by Drs. [Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) and [Donglin Zeng](https://sph.umich.edu/faculty-profiles/zeng-donglin.html). Before that, I received my B.S. in Statistics from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) at [Peking University](https://english.pku.edu.cn) in 2019.
 
 Research Interests
 ======
