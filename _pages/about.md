@@ -16,4 +16,4 @@ My research focuses on developing novel statistical methodology and theory for s
 
 Openings
 ======
-I am seeking self-motivated students to collaborate with me. If you are interested, please email me your CV along with a brief introduction about yourself.
+I am seeking self-motivated students to work with me. If you are interested, please email me your CV and transcripts along with a brief introduction about yourself.
