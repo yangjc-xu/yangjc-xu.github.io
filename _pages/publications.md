@@ -22,5 +22,4 @@ author_profile: true
 
 ## Under Review
 1. **Xu Y**, Zeng D, Lin DY. Checking the Cox proportional hazards model with interval-censored data, 2024+.
-2. Lin DY, Huang S, **Xu Y**, Milinovich A, Duggal A, Wang X. Waning effects of XBB.1.5 vaccines and antiviral drugs on severe outcomes of omicron infection in the USA, 2024+.
 
