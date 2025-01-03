@@ -7,4 +7,4 @@ author_profile: true
 
 ## Courses
 
-  - STAT 231: Statistics, Winter 2025
+  - STAT 231: Statistics (Sections 003 & 004), Winter 2025
