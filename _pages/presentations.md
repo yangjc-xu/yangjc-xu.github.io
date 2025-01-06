@@ -5,6 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
+- [11/2024] “Checking the Cox Regression Model with Interval-Censored Data”, Department of Statistics and Actuarial Science, University of Hong Kong, Hong Kong, China.
 - [06/2024] “Checking the Cox Regression Model with Interval-Censored Data”, 2024 ICSA Applied Statistics Symposium, Nashville, USA.
 - [03/2024] “Proportional Rates Models for Multivariate Panel Count Data”, ENAR 2024 Spring Meeting, Baltimore, USA.
 - [02/2024] “Checking the Cox Regression Model with Interval-Censored Data”, Department of Biostatistics and Data Science, UTHealth School of Public Health, Houston, USA.
