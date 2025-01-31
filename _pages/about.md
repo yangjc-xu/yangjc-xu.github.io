@@ -13,7 +13,3 @@ I am an Assistant Professor in the [Department of Statistics and Actuarial Scien
 Research Interests
 ======
 My research focuses on developing novel statistical methodology and theory for survival analysis, aiming to solve cutting-edge problems arising from biomedical and public health sciences. I am particularly interested in semiparametric models and seek computationally efficient inference and model-diagnosis procedures for univariate and multivariate time-to-event data under right or interval censoring, with applications to cohort studies and clinical trials. I am also interested in applying statistical methods to analyze large-scale administrative health data, with a focus on using large surveillance data to answer scientific questions concerning high-impact infectious diseases such as COVID-19 and HIV/AIDS.
-
-Openings
-======
-I am seeking self-motivated students to work with me. If you are interested, please email me your CV and transcripts along with a brief introduction about yourself.
