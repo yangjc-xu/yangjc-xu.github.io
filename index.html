@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Home - Yangjianchen Xu</title>
+  <link rel="icon" type="image/png" href="assets/images/favicon.png" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="publication.html">Publication</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="assets/cv/CV.pdf" download>CV</a>
+  </nav>
+
+  <header>
+    <div class="header-content">
+      <div class="header-image-wrapper">
+        <img src="assets/images/profile.png" alt="Profile Picture" class="profile-img"/>
+      </div>
+      <div class="header-text">
+        <h1>Yangjianchen Xu</h1>
+        <p>Assistant Professor<br>
+          Department of Statistics and Actuarial Science<br>
+          University of Waterloo<br>
+          200 University Avenue West<br>
+          N2L 3G1 Canada
+        </p>
+        <p>Email: <a href="mailto:yangjc@uwaterloo.ca">yangjc@uwaterloo.ca</a></p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <h2>Research Interests</h2>
+      <ul>
+        <li>Time-to-event Data</li>
+        <li>Semiparametric Models</li>
+        <li>Survival Analysis</li>
+        <li>Functional Data Analysis</li>
+        <li>Causal Inference</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li>Ph.D. in Biostatistics, University of North Carolina at Chapel Hill, 2019 - 2024</li>
+        <li>B.S. in Statistics, Peking University, 2015 - 2019</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Yangjianchen Xu</p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

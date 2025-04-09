@@ -1,0 +1,144 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background: #1c1c1c;
+  color: #ddd;
+  margin: 0;
+  padding: 0;
+  line-height: 1.8;
+}
+
+a {
+  color: #7BAFD4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  background: #1c1c1c;
+  padding: 1rem;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+nav a {
+  margin: 0 1rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+  background: none;
+  border: none;
+  color: #7BAFD4;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+header {
+  padding: 6rem 2rem 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.header-content {
+  display: flex;
+  max-width: 800px;
+  width: 100%;
+  align-items: center; /* ✅ 头像和文字中轴线对齐 */
+}
+
+.header-image-wrapper {
+  width: 180px;
+  height: auto;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center; /* ✅ 图片垂直居中 */
+}
+
+.profile-img {
+  width: 180px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+
+.header-text {
+  margin-left: 6rem; /* ✅ 调整：增加间距，更舒展 */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* ✅ 文字垂直居中 */
+}
+
+.header-text h1 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.header-text p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h1, h2 {
+  color: #7BAFD4;
+  margin-bottom: 1rem;
+}
+
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  header {
+    padding: 4rem 1rem 1rem;
+  }
+
+  .header-content {
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+
+  .header-image-wrapper {
+    width: 140px;
+    height: auto;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+  }
+
+  .profile-img {
+    width: 140px;
+    height: auto;
+  }
+
+  .header-text {
+    margin-left: 0;
+    align-items: center;
+  }
+
+  .header-text p {
+    margin: 0.2rem 0;
+  }
+}
