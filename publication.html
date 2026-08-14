@@ -1,143 +1,177 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Publication - Yangjianchen Xu</title>
-  <link rel="icon" type="image/png" href="assets/images/favicon.png" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Publications — Yangjianchen Xu</title>
+  <meta name="description" content="Publications and preprints by Yangjianchen Xu." />
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml" />
+  <link rel="alternate icon" href="assets/images/favicon.png" sizes="256x256" />
+  <link rel="apple-touch-icon" href="assets/images/favicon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="assets/css/style.css" />
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem('theme');
+        if (!t) { t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; }
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    })();
+  </script>
 </head>
 <body>
-  <nav>
-    <a href="index.html">Home</a>
-    <a href="publication.html">Publication</a>
-    <a href="teaching.html">Teaching</a>
-    <a href="assets/cv/CV.pdf" download>CV</a>
+
+  <nav class="site-nav">
+    <div class="site-nav__inner">
+      <a class="site-nav__brand" href="index.html">Yangjianchen Xu</a>
+      <div class="site-nav__links">
+        <a href="index.html">Home</a>
+        <a href="publication.html">Publications</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="people.html">People</a>
+      </div>
+      <button class="theme-toggle" type="button" aria-label="Switch to dark theme">
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2M12 20v2M4.2 4.2l1.4 1.4M18.4 18.4l1.4 1.4M2 12h2M20 12h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 14.5A8.2 8.2 0 0 1 9.5 4 8.3 8.3 0 1 0 20 14.5z"/></svg>
+      </button>
+    </div>
   </nav>
 
-  <main>
-    <h1>Publication</h1>
-    <p><a href="https://scholar.google.com/citations?user=cb6zIO4AAAAJ" target="_blank">Google Scholar</a></p>
-    <p style="font-size: 0.8rem; color: #888; margin-top: 1rem;">* indicates equal contributions.</p>
-    <h3>Submitted Manuscripts</h3>
-    <ol>
-      <li>
-        <strong>Xu Y</strong>, Sang P.
-        <a href="https://arxiv.org/abs/2605.15303" target="_blank">Efficient estimation for the functional Cox model with interval-censored data</a>.
-      </li>
-      <li>
-        <strong>Xu Y</strong>, Zeng D, Lin DY.
-        Robust inference for the Cox proportional hazards model with interval-censored data.
-      </li>
-      <li>
-        <strong>Xu Y</strong>, Tian Q, Wang G.
-        Semiparametric regression analysis of right-censored events with perturbed discrete covariates.
-      </li>
-      <li>
-        Gu Y, <strong>Xu Y</strong>, Sang P.
-        <a href="https://arxiv.org/abs/2601.17141" target="_blank">Varying coefficient model for longitudinal data with informative observation times</a>.
-      </li>
-      <li>
-        Cheng M, <strong>Xu Y</strong>, Tian Q, Li P.
-        <a href="https://arxiv.org/abs/2604.21110" target="_blank">A goodness-of-fit test for the logistic propensity score model under nonignorable missing data</a>.
-      </li>
-    </ol>
-    <h3>Refereed Publications</h3>
-    <ol>
-      <li>
-        <strong>Xu Y</strong>, Zeng D, Lin DY.
-        <a href="https://doi.org/10.1080/01621459.2025.2520460" target="_blank">Checking the Cox proportional hazards model with interval-censored data</a>.
-        <em>Journal of the American Statistical Association</em>, 2025.
-        <span style="font-size: 0.85rem; color: #f0a4a4;">[An earlier version of this manuscript won the 2024 ICSA Student Paper Honorable Mention ]</span>
-      </li>
-      <li>
-        Du Y, Paritala S, <strong>Xu Y</strong>, Maloney P, Lin DY.
-        <a href="https://doi.org/10.1001/jamainternmed.2025.5465" target="_blank">Durability of 2024-2025 COVID-19 Vaccines Against JN.1 Subvariants</a>.
-        <em>JAMA Internal Medicine</em>, 2025.
-        <span style="font-size: 0.85rem; color: #888;">[<a href="https://jamanetwork.altmetric.com/details/182951565/news" target="_blank">News</a>]</span>
-      </li>
-      <li>
-        Yang X, Shi F, Chen S, Liu Z, <strong>Xu Y</strong>, Poland GA, Weissman S, Olatosi B, Zhang J, Li X.
-        <a href="https://doi.org/10.1016/j.jmii.2025.05.005" target="_blank">Effects of COVID-19 vaccination and past SARS-CoV-2 infection on subsequent COVID-19 infection in people with HIV</a>.
-        <em>Journal of Microbiology, Immunology and Infection</em>, 2025.
-      </li>
-      <li>
-        Lin DY, Du Y, <strong>Xu Y</strong>, Paritala S, Donahue M, Maloney P.
-        <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2402779" target="_blank">Durability of XBB.1.5 Vaccines against Omicron Subvariants</a>.
-        <em>New England Journal of Medicine</em>, 2024.
-        <span style="font-size: 0.85rem; color: #888;">[<a href="https://www.altmetric.com/details/163931419/news" target="_blank">News</a>]</span>
-      </li>
-      <li>
-        Lin DY<sup>*</sup>, <strong>Xu Y</strong><sup>*</sup>, Gu Y, Sunny SK, Moore Z, Zeng D.
-        <a href="https://www.ijidonline.com/article/S1201-9712(24)00155-3/fulltext" target="_blank">Impact of booster vaccination interval on SARS-CoV-2 infection, hospitalization, and death</a>.
-        <em>International Journal of Infectious Diseases</em>, 2024.
-      </li>
-      <li>
-        <strong>Xu Y</strong>, Zeng D, Lin DY.
-        <a href="https://academic.oup.com/biometrics/article/80/1/ujad011/7595108" target="_blank">Proportional rates models for multivariate panel count data</a>.
-        <em>Biometrics</em>, 2024.
-        <span style="font-size: 0.85rem; color: #f0a4a4;">[An earlier version of this manuscript won the 2023 ASA Lifetime Data Science (LiDS) Section Student Paper Award and the 2024 ENAR Distinguished Student Paper Award]</span>
-      </li>
-      <li>
-        Lin DY, Du Y, <strong>Xu Y</strong>, Paritala S, Donahue M, Maloney P.
-        <a href="https://esmed.org/MRA/mra/article/view/5740" target="_blank">Effectiveness of XBB.1.5 Vaccines Against Omicron Subvariants</a>.
-        <em>Medical Research Archives</em>, 2024.
-      </li>
-      <li>
-        <strong>Xu Y</strong>, Zeng D, Lin DY.
-        <a href="https://academic.oup.com/biomet/article-abstract/110/3/815/6794202" target="_blank">Marginal proportional hazards models for multivariate interval-censored data</a>.
-        <em>Biometrika</em>, 2023.
-      </li>
-      <li>
-        Lin DY<sup>*</sup>, <strong>Xu Y</strong><sup>*</sup>, Gu Y<sup>*</sup>, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z.
-        <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00272-4/fulltext" target="_blank">Effects of COVID-19 vaccination and previous SARS-CoV-2 infection on Omicron infection and severe outcomes in children under 12 years of age: an observational cohort study</a>.
-        <em>The Lancet Infectious Diseases</em>, 2023.
-        <span style="font-size: 0.85rem; color: #888;">[<a href="https://www.altmetric.com/details/150195124/news?src=bookmarklet" target="_blank">News</a>]</span>
-      </li>
-      <li>
-        Lin DY, <strong>Xu Y</strong>, Gu Y, Zeng D, Sunny SK, Moore Z.
-        <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2302462" target="_blank">Durability of bivalent boosters against Omicron subvariants</a>.
-        <em>New England Journal of Medicine</em>, 2023.
-        <span style="font-size: 0.85rem; color: #888;">[<a href="https://www.altmetric.com/details/145643558/news?src=bookmarklet" target="_blank">News</a>]</span>
-      </li>
-      <li>
-        Lin DY, <strong>Xu Y</strong>, Gu Y, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z.
-        <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2215471" target="_blank">Effectiveness of bivalent boosters against severe Omicron infection</a>.
-        <em>New England Journal of Medicine</em>, 2023.
-        <span style="font-size: 0.85rem; color: #888;">[<a href="https://www.altmetric.com/details/141787740/news?src=bookmarklet" target="_blank">News</a>]</span>
-      </li>
-      <li>
-        Paritala S, <strong>Xu Y</strong>, Du Y, Donahue M, Maloney P, Lin DY.
-        <a href="https://www.fortunejournals.com/articles/effectiveness-of-bivalent-boosters-over-nine-and-half-months.html" target="_blank">Effectiveness of Bivalent Boosters Over Nine and Half Months</a>.
-        <em>Journal of Biotechnology and Biomedicine</em>, 2023.
-      </li>
-      <li>
-        Lin DY, <strong>Xu Y</strong>, Zeng D, Sunny SK.
-        <a href="https://www.fortunejournals.com/articles/a-costbenefit-analysis-of-bivalent-covid19-vaccines.html" target="_blank">A Cost-Benefit Analysis of Bivalent Covid-19 Vaccines</a>.
-        <em>Journal of Biotechnology and Biomedicine</em>, 2023.
-      </li>
-      <li>
-        Lin DY, Gu Y, <strong>Xu Y</strong>, Wheeler B, Young H, Sunny SK, Moore Z, Zeng D.
-        <a href="https://jamanetwork.com/journals/jama/article-abstract/2796893" target="_blank">Association of primary and booster vaccination and prior infection with SARS-CoV-2 infection and severe COVID-19 outcomes</a>.
-        <em>JAMA</em>, 2022.
-        <span style="font-size: 0.85rem; color: #888;">[<a href="https://www.altmetric.com/details/136446237/news?src=bookmarklet" target="_blank">News</a>]</span>
-      </li>
-      <li>
-        Lin DY, Gu Y, <strong>Xu Y</strong>, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z.
-        <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2209371" target="_blank">Effects of vaccination and previous infection on Omicron infections in children</a>.
-        <em>New England Journal of Medicine</em>, 2022.
-        <span style="font-size: 0.85rem; color: #888;">[<a href="https://www.altmetric.com/details/135646402/news?src=bookmarklet" target="_blank">News</a>]</span>
-      </li>
-    </ol>
+  <main class="page">
+
+    <h1 class="page-title">Publications</h1>
+    <p class="page-lede">
+      A full list is also available on
+      <a href="https://scholar.google.com/citations?user=cb6zIO4AAAAJ" target="_blank" rel="noopener">Google Scholar</a>.
+      An asterisk (*) indicates equal contribution.
+    </p>
+
+    <section class="pub-group">
+      <h2 class="pub-group__title">Submitted Manuscripts</h2>
+      <ol class="pub-list">
+        <li>
+          <span class="me">Xu Y</span>, Sang P.
+          <span class="pub-title"><a href="https://arxiv.org/abs/2605.15303" target="_blank" rel="noopener">Efficient estimation for the functional Cox model with interval-censored data</a>.</span>
+        </li>
+        <li>
+          <span class="me">Xu Y</span>, Zeng D, Lin DY.
+          <span class="pub-title">Robust inference for the Cox proportional hazards model with interval-censored data.</span>
+        </li>
+        <li>
+          <span class="me">Xu Y</span>, Tian Q, Wang G.
+          <span class="pub-title">Semiparametric regression analysis of right-censored events with perturbed discrete covariates.</span>
+        </li>
+        <li>
+          Gu Y, <span class="me">Xu Y</span>, Sang P.
+          <span class="pub-title"><a href="https://arxiv.org/abs/2601.17141" target="_blank" rel="noopener">Varying coefficient model for longitudinal data with informative observation times</a>.</span>
+        </li>
+        <li>
+          Cheng M, <span class="me">Xu Y</span>, Tian Q, Li P.
+          <span class="pub-title"><a href="https://arxiv.org/abs/2604.21110" target="_blank" rel="noopener">A goodness-of-fit test for the logistic propensity score model under nonignorable missing data</a>.</span>
+        </li>
+      </ol>
+    </section>
+
+    <section class="pub-group">
+      <h2 class="pub-group__title">Refereed Publications</h2>
+      <ol class="pub-list">
+        <li>
+          <span class="me">Xu Y</span>, Zeng D, Lin DY.
+          <span class="pub-title"><a href="https://doi.org/10.1080/01621459.2025.2520460" target="_blank" rel="noopener">Checking the Cox proportional hazards model with interval-censored data</a>.</span>
+          <span class="venue">Journal of the American Statistical Association</span>, 2025.
+          <br /><span class="badge">2024 ICSA Student Paper Honorable Mention (earlier version)</span>
+        </li>
+        <li>
+          Du Y, Paritala S, <span class="me">Xu Y</span>, Maloney P, Lin DY.
+          <span class="pub-title"><a href="https://doi.org/10.1001/jamainternmed.2025.5465" target="_blank" rel="noopener">Durability of 2024–2025 COVID-19 vaccines against JN.1 subvariants</a>.</span>
+          <span class="venue">JAMA Internal Medicine</span>, 2025.
+          <span class="news-link">[<a href="https://jamanetwork.altmetric.com/details/182951565/news" target="_blank" rel="noopener">News</a>]</span>
+        </li>
+        <li>
+          Yang X, Shi F, Chen S, Liu Z, <span class="me">Xu Y</span>, Poland GA, Weissman S, Olatosi B, Zhang J, Li X.
+          <span class="pub-title"><a href="https://doi.org/10.1016/j.jmii.2025.05.005" target="_blank" rel="noopener">Effects of COVID-19 vaccination and past SARS-CoV-2 infection on subsequent COVID-19 infection in people with HIV</a>.</span>
+          <span class="venue">Journal of Microbiology, Immunology and Infection</span>, 2025.
+        </li>
+        <li>
+          Lin DY, Du Y, <span class="me">Xu Y</span>, Paritala S, Donahue M, Maloney P.
+          <span class="pub-title"><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2402779" target="_blank" rel="noopener">Durability of XBB.1.5 vaccines against Omicron subvariants</a>.</span>
+          <span class="venue">New England Journal of Medicine</span>, 2024.
+          <span class="news-link">[<a href="https://www.altmetric.com/details/163931419/news" target="_blank" rel="noopener">News</a>]</span>
+        </li>
+        <li>
+          Lin DY<sup>*</sup>, <span class="me">Xu Y</span><sup>*</sup>, Gu Y, Sunny SK, Moore Z, Zeng D.
+          <span class="pub-title"><a href="https://www.ijidonline.com/article/S1201-9712(24)00155-3/fulltext" target="_blank" rel="noopener">Impact of booster vaccination interval on SARS-CoV-2 infection, hospitalization, and death</a>.</span>
+          <span class="venue">International Journal of Infectious Diseases</span>, 2024.
+        </li>
+        <li>
+          <span class="me">Xu Y</span>, Zeng D, Lin DY.
+          <span class="pub-title"><a href="https://academic.oup.com/biometrics/article/80/1/ujad011/7595108" target="_blank" rel="noopener">Proportional rates models for multivariate panel count data</a>.</span>
+          <span class="venue">Biometrics</span>, 2024.
+          <br /><span class="badge">2023 ASA Lifetime Data Science Student Paper Award &amp; 2024 ENAR Distinguished Student Paper Award (earlier version)</span>
+        </li>
+        <li>
+          Lin DY, Du Y, <span class="me">Xu Y</span>, Paritala S, Donahue M, Maloney P.
+          <span class="pub-title"><a href="https://esmed.org/MRA/mra/article/view/5740" target="_blank" rel="noopener">Effectiveness of XBB.1.5 vaccines against Omicron subvariants</a>.</span>
+          <span class="venue">Medical Research Archives</span>, 2024.
+        </li>
+        <li>
+          <span class="me">Xu Y</span>, Zeng D, Lin DY.
+          <span class="pub-title"><a href="https://academic.oup.com/biomet/article-abstract/110/3/815/6794202" target="_blank" rel="noopener">Marginal proportional hazards models for multivariate interval-censored data</a>.</span>
+          <span class="venue">Biometrika</span>, 2023.
+        </li>
+        <li>
+          Lin DY<sup>*</sup>, <span class="me">Xu Y</span><sup>*</sup>, Gu Y<sup>*</sup>, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z.
+          <span class="pub-title"><a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00272-4/fulltext" target="_blank" rel="noopener">Effects of COVID-19 vaccination and previous SARS-CoV-2 infection on Omicron infection and severe outcomes in children under 12 years of age</a>.</span>
+          <span class="venue">The Lancet Infectious Diseases</span>, 2023.
+          <span class="news-link">[<a href="https://www.altmetric.com/details/150195124/news?src=bookmarklet" target="_blank" rel="noopener">News</a>]</span>
+        </li>
+        <li>
+          Lin DY, <span class="me">Xu Y</span>, Gu Y, Zeng D, Sunny SK, Moore Z.
+          <span class="pub-title"><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2302462" target="_blank" rel="noopener">Durability of bivalent boosters against Omicron subvariants</a>.</span>
+          <span class="venue">New England Journal of Medicine</span>, 2023.
+          <span class="news-link">[<a href="https://www.altmetric.com/details/145643558/news?src=bookmarklet" target="_blank" rel="noopener">News</a>]</span>
+        </li>
+        <li>
+          Lin DY, <span class="me">Xu Y</span>, Gu Y, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z.
+          <span class="pub-title"><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2215471" target="_blank" rel="noopener">Effectiveness of bivalent boosters against severe Omicron infection</a>.</span>
+          <span class="venue">New England Journal of Medicine</span>, 2023.
+          <span class="news-link">[<a href="https://www.altmetric.com/details/141787740/news?src=bookmarklet" target="_blank" rel="noopener">News</a>]</span>
+        </li>
+        <li>
+          Paritala S, <span class="me">Xu Y</span>, Du Y, Donahue M, Maloney P, Lin DY.
+          <span class="pub-title"><a href="https://www.fortunejournals.com/articles/effectiveness-of-bivalent-boosters-over-nine-and-half-months.html" target="_blank" rel="noopener">Effectiveness of bivalent boosters over nine and half months</a>.</span>
+          <span class="venue">Journal of Biotechnology and Biomedicine</span>, 2023.
+        </li>
+        <li>
+          Lin DY, <span class="me">Xu Y</span>, Zeng D, Sunny SK.
+          <span class="pub-title"><a href="https://www.fortunejournals.com/articles/a-costbenefit-analysis-of-bivalent-covid19-vaccines.html" target="_blank" rel="noopener">A cost-benefit analysis of bivalent COVID-19 vaccines</a>.</span>
+          <span class="venue">Journal of Biotechnology and Biomedicine</span>, 2023.
+        </li>
+        <li>
+          Lin DY, Gu Y, <span class="me">Xu Y</span>, Wheeler B, Young H, Sunny SK, Moore Z, Zeng D.
+          <span class="pub-title"><a href="https://jamanetwork.com/journals/jama/article-abstract/2796893" target="_blank" rel="noopener">Association of primary and booster vaccination and prior infection with SARS-CoV-2 infection and severe COVID-19 outcomes</a>.</span>
+          <span class="venue">JAMA</span>, 2022.
+          <span class="news-link">[<a href="https://www.altmetric.com/details/136446237/news?src=bookmarklet" target="_blank" rel="noopener">News</a>]</span>
+        </li>
+        <li>
+          Lin DY, Gu Y, <span class="me">Xu Y</span>, Zeng D, Wheeler B, Young H, Sunny SK, Moore Z.
+          <span class="pub-title"><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2209371" target="_blank" rel="noopener">Effects of vaccination and previous infection on Omicron infections in children</a>.</span>
+          <span class="venue">New England Journal of Medicine</span>, 2022.
+          <span class="news-link">[<a href="https://www.altmetric.com/details/135646402/news?src=bookmarklet" target="_blank" rel="noopener">News</a>]</span>
+        </li>
+      </ol>
+    </section>
+
   </main>
 
-  <footer>
-    <p>&copy; <span id="year"></span> Yangjianchen Xu</p>
+  <footer class="site-footer">
+    <span>&copy; <span id="year">2026</span> Yangjianchen Xu</span>
+    <span><a href="mailto:yangjc@uwaterloo.ca">yangjc@uwaterloo.ca</a></span>
   </footer>
 
-  <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
+  <script src="assets/js/main.js"></script>
 </body>
 </html>
