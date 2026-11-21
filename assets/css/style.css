@@ -516,7 +516,7 @@ html[data-theme='dark'] .theme-toggle .icon-moon { display: block; }
 .people-list .person-name { font-weight: 600; color: var(--text); }
 
 .people-list .person-detail {
-  display: block;
+  margin-left: .5rem;
   color: var(--text-muted);
   font-size: .88rem;
 }
